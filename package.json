@@ -1,0 +1,12 @@
+{
+  "name": "vaccine-finder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.21",
+    "qs": "^6.10.1"
+  }
+}
